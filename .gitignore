@@ -1,0 +1,8 @@
+# ignore all data
+*.csv
+*.zip
+*.png
+
+
+# ignore precompiled stuff
+*.pyc
